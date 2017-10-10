@@ -1,6 +1,7 @@
 
 package ludecomp;
 
+/*Pivo do Método de Decomposição LU*/
 
 public class Pivo {
 
